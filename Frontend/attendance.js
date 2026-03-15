@@ -1,4 +1,4 @@
-const ATTENDANCE_API_URL = "http://localhost:3000/api/attendance";
+const ATTENDANCE_API_URL = "https://library-nfc-backend.vercel.app/api/attendance";
 const ATTENDANCE_REFRESH_INTERVAL = 5000;
 
 const attendanceDom = {

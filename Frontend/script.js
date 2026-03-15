@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/transactions";
+const API_URL = "https://library-nfc-backend.vercel.app/api/transactions";
 const REFRESH_INTERVAL = 5000;
 
 const dom = {
